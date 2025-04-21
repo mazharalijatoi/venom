@@ -238,7 +238,7 @@ Reply to a message with mention
 ```javascript
 await client.reply(
   '000000000000@c.us',
-  'Hello @5218113130740 and @5218243160777! This is a reply with mention!',
+  'Hello @5218113130740 and @923001579007! This is a reply with mention!',
   message.id.toString(),
   ['5218113130740', '923001579007']
 );
